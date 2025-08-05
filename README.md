@@ -39,3 +39,7 @@ git clone https://github.com/Varshitha05-S/Fundraising-portal.git
 cd Fundraising-portal
 npm install
 npm run dev
+## Screenshots
+
+![Dashboard](screenshot/dashboard.png.png)
+![Leaderboard](screenshot/leaderboard.png.png)
